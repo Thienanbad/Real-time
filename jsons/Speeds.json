@@ -18,7 +18,7 @@
         "startYear": -4000,
         "turns": [
 
-            {"yearsPerTurn": 1}
+            {"yearsPerTurn": 1, "untilTurn": 1}
         ]
     }
       ]
