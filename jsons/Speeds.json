@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Marathon",
+        "modifier": 3.0,
+        "productionCostModifier": 3.0,
+        "goldCostModifier": 3.0,
+        "scienceCostModifier": 3.0,
+        "cultureCostModifier": 3.0,
+        "faithCostModifier": 3.0,
+        "improvementBuildLengthModifier": 3.0,
+        "barbarianModifier": 4.0,
+        "goldGiftModifier": 0.67,
+        "cityStateTributeScalingInterval": 32.0,
+        "goldenAgeLengthModifier": 2.0,
+        "religiousPressureAdjacentCity": 2,
+        "peaceDealDuration": 30,
+        "dealDuration": 90,
+        "startYear": -4000,
+        "turns": [
+
+            {"yearsPerTurn": 1}
+        ]
+    }
+      ]
