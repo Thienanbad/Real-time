@@ -11,7 +11,7 @@
   },
   {
                 "name": "Government Office",
-	        "replaced": "Palace",
+	        "replaces": "Palace",
 		"production": 5,
 		"science": 5,
 		"gold": 5,
