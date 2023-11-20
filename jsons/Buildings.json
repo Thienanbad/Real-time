@@ -18,6 +18,7 @@
 		"culture": 5,
 		"cityStrength": 5,
 		"cost": 100,
-		"uniques": ["Indicates the capital city","[+20]% [Production] [in this city] <during We Love The King Day>","[+20]% [Gold] [in this city] <during We Love The King Day>","Limited to [1] per Civilization","Destroyed when the city is captured"]
+		"uniques": ["Indicates the capital city","[+20]% [Production] [in this city] <during We Love The King Day>","[+20]% [Gold] [in this city] <during We Love The King Day>","Limited to [1] per Civilization","Destroyed when the city is captured"],
+	        "requiredTech": "Writing"
   }
 ]
