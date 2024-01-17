@@ -17,6 +17,7 @@
 		"culture": 5,
 		"cityStrength": 5,
 		"cost": 200,
+	        "requiredTech": "Industrialization",
 		"uniques": ["Indicates the capital city","[+15]% [Production] [in this city] <during We Love The King Day>","[+15]% [Gold] [in this city] <during We Love The King Day>","Limited to [1] per Civilization","Destroyed when the city is captured","Unbuildable <in cities with a [Palace]>","Remove [Palace] [in capital]"]
   },
 ]
