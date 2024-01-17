@@ -7,6 +7,16 @@
 		"culture": 3,
 		"cityStrength": 3,
 		"cost": 100,
-		"uniques": ["Indicates the capital city","[+15]% [Production] [in this city] <during We Love The King Day>","[+15]% [Gold] [in this city] <during We Love The King Day>","Limited to [1] per Civilization","Destroyed when the city is captured"]
-  }
+		"uniques": ["Indicates the capital city","[+10]% [Production] [in this city] <during We Love The King Day>","[+10]% [Gold] [in this city] <during We Love The King Day>","Limited to [1] per Civilization","Destroyed when the city is captured"]
+  },
+ {
+                "name": "Government Office",
+		"production": 5,
+		"science": 5,
+		"gold": 5,
+		"culture": 5,
+		"cityStrength": 5,
+		"cost": 200,
+		"uniques": ["Indicates the capital city","[+15]% [Production] [in this city] <during We Love The King Day>","[+15]% [Gold] [in this city] <during We Love The King Day>","Limited to [1] per Civilization","Destroyed when the city is captured","Unbuildable <in cities with a [Palace]>","Remove [Palace] [in capital]"]
+  },
 ]
