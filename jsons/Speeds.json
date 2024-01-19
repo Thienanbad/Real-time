@@ -4,8 +4,8 @@
         "modifier": 3.0,
         "productionCostModifier": 3.0,
         "goldCostModifier": 3.0,
-        "scienceCostModifier": 6.0,
-        "cultureCostModifier": 6.0,
+        "scienceCostModifier": 3.0,
+        "cultureCostModifier": 3.0,
         "faithCostModifier": 3.0,
         "improvementBuildLengthModifier": 3.0,
         "barbarianModifier": 5.0,
@@ -15,7 +15,7 @@
         "religiousPressureAdjacentCity": 2,
         "peaceDealDuration": 30,
         "dealDuration": 90,
-        "startYear": -4000,
+        "startYear": 0,
         "turns": [
             {"yearsPerTurn": 1, "untilTurn": -4000}
         ]
